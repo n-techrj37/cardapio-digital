@@ -1,0 +1,265 @@
+[
+  {
+    "categoria": "Esfihas Doces",
+    "itens": [
+      {
+        "id": "doce_chocolate_branco_confete",
+        "nome": "CHOCOLATE BRANCO COM CONFETE",
+        "descricao": "",
+        "preco": "R$ 5,90",
+        "imagem": ""
+      },
+      {
+        "id": "doce_chocolate_ao_leite_confete",
+        "nome": "CHOCOLATE AO LEITE COM CONFETE",
+        "descricao": "",
+        "preco": "R$ 5,90",
+        "imagem": ""
+      },
+      {
+        "id": "doce_esfiha_brigadeiro",
+        "nome": "ESFIHA BRIGADEIRO",
+        "descricao": "CHOCOLATE AO LEITE COM GRANULADO",
+        "preco": "R$ 5,90",
+        "imagem": ""
+      },
+      {
+        "id": "doce_esfiha_doce_de_leite_puro",
+        "nome": "ESFIHA DOCE DE LEITE PURO",
+        "descricao": "",
+        "preco": "R$ 4,90",
+        "imagem": ""
+      },
+      {
+        "id": "doce_esfiha_doce_de_leite_pacoca",
+        "nome": "ESFIHA DOCE DE LEITE COM PAÇOCA",
+        "descricao": "",
+        "preco": "R$ 4,90",
+        "imagem": ""
+      },
+      {
+        "id": "doce_esfiha_pistache_puro",
+        "nome": "ESFIHA DE PISTACHE PURO",
+        "descricao": "",
+        "preco": "R$ 4,90",
+        "imagem": ""
+      },
+      {
+        "id": "doce_esfiha_oreo",
+        "nome": "ESFIHA OREO",
+        "descricao": "CHOCOLATE BRANCO COM OREO",
+        "preco": "R$ 6,00",
+        "imagem": ""
+      },
+      {
+        "id": "doce_esfika_kit_kat",
+        "nome": "ESFIKA KIT KAT",
+        "descricao": "CHOCOLATE AO LEITE COM KIT KAT",
+        "preco": "R$ 7,50",
+        "imagem": ""
+      },
+      {
+        "id": "doce_esfiha_banana_acucar_canela",
+        "nome": "ESFIHA BANANA COM AÇÚCAR E CANELA",
+        "descricao": "",
+        "preco": "R$ 4,90",
+        "imagem": ""
+      }
+    ]
+  },
+  {
+    "categoria": "Esfihas Salgadas",
+    "itens": [
+      {
+        "id": "salgada_esfiha_mussarela",
+        "nome": "ESFIHA MUSSARELA",
+        "descricao": "",
+        "preco": "R$ 4,90",
+        "imagem": ""
+      },
+      {
+        "id": "salgada_esfiha_presunto",
+        "nome": "ESFIHA PRESUNTO",
+        "descricao": "",
+        "preco": "R$ 5,90",
+        "imagem": ""
+      },
+      {
+        "id": "salgada_esfiha_calabresa",
+        "nome": "ESFIHA CALABRESA",
+        "descricao": "",
+        "preco": "R$ 5,90",
+        "imagem": ""
+      },
+      {
+        "id": "salgada_esfiha_margherita",
+        "nome": "ESFIHA MARGHERITA",
+        "descricao": "",
+        "preco": "R$ 4,90",
+        "imagem": ""
+      },
+      {
+        "id": "salgada_esfiha_bacon",
+        "nome": "ESFIHA DE BACON",
+        "descricao": "",
+        "preco": "R$ 6,50",
+        "imagem": ""
+      },
+      {
+        "id": "salgada_esfiha_carne",
+        "nome": "ESFIHA DE CARNE",
+        "descricao": "",
+        "preco": "R$ 5,90",
+        "imagem": ""
+      },
+      {
+        "id": "salgada_esfiha_4_queijos",
+        "nome": "ESFIHA 4 QUEIJOS",
+        "descricao": "",
+        "preco": "R$ 7,50",
+        "imagem": ""
+      },
+      {
+        "id": "salgada_esfiha_frango_catupiry",
+        "nome": "ESFIHA FRANGO COM CATUPIRY",
+        "descricao": "",
+        "preco": "R$ 7,50",
+        "imagem": ""
+      },
+      {
+        "id": "salgada_esfiha_frango_cheddar",
+        "nome": "ESFIHA FRANGO COM CHEDDAR",
+        "descricao": "",
+        "preco": "R$ 7,50",
+        "imagem": ""
+      },
+      {
+        "id": "salgada_esfiha_costela_catupiry_cebola_roxa",
+        "nome": "ESFIHA COSTELA COM CATUPIRY E CEBOLA ROXA",
+        "descricao": "",
+        "preco": "R$ 7,90",
+        "imagem": ""
+      }
+    ]
+  },
+  {
+    "categoria": "Combo Hambúrguer",
+    "itens": [
+      {
+        "id": "combo_duplo_cheddar_batata_guarana",
+        "nome": "COMBO ( DUPLO CHEDDAR + BATATA + GUARANÁ ANTÁRCTICA LATA)",
+        "descricao": "",
+        "preco": "R$ 27,90",
+        "imagem": ""
+      },
+      {
+        "id": "combo_big_cheddar_cheddar",
+        "nome": "COMBO ( BIG CHEDDAR + CHEDDAR)",
+        "descricao": "",
+        "preco": "R$ 19,90",
+        "imagem": ""
+      },
+      {
+        "id": "combo_cheddar_batata_frita",
+        "nome": "COMBO ( CHEDDAR + BATATA FRITA)",
+        "descricao": "",
+        "preco": "R$ 14,90",
+        "imagem": ""
+      },
+      {
+        "id": "combo_2_duplo_cheddar",
+        "nome": "COMBO ( 2 DUPLO CHEDDAR)",
+        "descricao": "",
+        "preco": "R$ 33,90",
+        "imagem": ""
+      }
+    ]
+  },
+  {
+    "categoria": "Hambúrgueres",
+    "itens": [
+      {
+        "id": "hamburguer_salada",
+        "nome": "SALADA",
+        "descricao": "PÃO, CARNES, PICLES, SALADA E MOLHO",
+        "preco": "R$ 10,90",
+        "imagem": ""
+      },
+      {
+        "id": "hamburguer_hamburguer",
+        "nome": "HAMBÚRGUER",
+        "descricao": "PÃO, CARNE, CHEDDAR FATIA, PICLES, SALADA E MOLHO",
+        "preco": "R$ 11,90",
+        "imagem": ""
+      },
+      {
+        "id": "hamburguer_x_egg",
+        "nome": "X-EGG",
+        "descricao": "PÃO, CARNE, CHEDDAR FATIA, OVO, BACON, SALADA, PICLES E MOLHO.",
+        "preco": "R$ 14,90",
+        "imagem": ""
+      },
+      {
+        "id": "hamburguer_duplo_cheddar",
+        "nome": "DUPLO CHEDDAR",
+        "descricao": "PÃO, 2 CARNES, 2 QUEIJO CHEDDAR FATIA, BACON, PICLES E MOLHO",
+        "preco": "R$ 18,90",
+        "imagem": ""
+      },
+      {
+        "id": "hamburguer_triburguer",
+        "nome": "TRIBURGUER",
+        "descricao": "PÃO, 3 CARNES, 3 FATIA QUEIJO CHEDDAR, PICLES E MOLHO",
+        "preco": "R$ 18,90",
+        "imagem": ""
+      },
+      {
+        "id": "hamburguer_x_tudo",
+        "nome": "X-TUDO",
+        "descricao": "PÃO, 2 CARNES, 2 FATIA QUEIJO CHEDDAR, PRESUNTO, CALABRESA, BACON, OVO, SALADA, PICLES E MOLHO",
+        "preco": "R$ 23,90",
+        "imagem": ""
+      },
+      {
+        "id": "hamburguer_fome_zero",
+        "nome": "FOME ZERO",
+        "descricao": "PÃO BRIOCHE, 3 CARNES, 3 FATIA DE QUEIJO CHEDDAR, 1 OVO E MOLHO",
+        "preco": "R$ 19,90",
+        "imagem": ""
+      }
+    ]
+  },
+  {
+    "categoria": "Hambúrguer Artesanal",
+    "itens": [
+      {
+        "id": "artesanal_cheese_burger",
+        "nome": "CHEESE BURGER",
+        "descricao": "PÃO BRIOCHE, BLEND 100g, QUEIJO CHEDDAR, BACON, PICLES E MAIONESE DE ALHO.",
+        "preco": "R$ 21,90",
+        "imagem": ""
+      },
+      {
+        "id": "artesanal_duplo_cheese_burger",
+        "nome": "DUPLO CHEESE BURGER",
+        "descricao": "PÃO BRIOCHE, 2 BLEND 100g, 2 QUEIJO CHEDDAR, BACON, CEBOLA CARAMELIZADA, ALFACE AMERICANO, TOMATE, PICLES E MAIONESE DE ALHO",
+        "preco": "R$ 29,90",
+        "imagem": ""
+      },
+      {
+        "id": "artesanal_triplo_cheese_burguer",
+        "nome": "TRIPLO CHEESE BURGUER",
+        "descricao": "(pão brioche, 3 blend especial de 100g cada, 3 fatia queijo cheddar, alface americano e maionese de alho)",
+        "preco": "R$ 36,90",
+        "imagem": ""
+      },
+      {
+        "id": "artesanal_3_artesanais_1_batata",
+        "nome": "3 ARTESANAIS + 1 BATATA",
+        "descricao": "(pão, carne, cheddar fatia, maionese de alho)",
+        "preco": "R$ 49,90",
+        "imagem": ""
+      }
+    ]
+  }
+]
